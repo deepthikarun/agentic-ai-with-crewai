@@ -1,4 +1,4 @@
-**## This repository contains notebooks from the "Multi-AI Agent Systems with crewAI" course by DeepLearning.AI.**
+## **This repository contains notebooks from the "Multi-AI Agent Systems with crewAI" course by DeepLearning.AI.**
 
 **Project 1: Create Agents to Research and Write an Article**: 
 
